@@ -1,4 +1,4 @@
-# RAG 2.0
+# Lecture IQ
 
 Build a deployed RAG app that answers questions from your own lecture YouTube playlist.
 
